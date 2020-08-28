@@ -1,3 +1,3 @@
 # Natours_starter
 Fictional tours company
-all commits is here https://github.com/hotriluc/WebTasks/tree/master/Natours_starter. Just created a new repoitory for project.
+All commits is here https://github.com/hotriluc/WebTasks/tree/master/Natours_starter. Just created a new repoitory for project.
